@@ -10,7 +10,7 @@ else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Highfilter 
 fi
-cd /VJ-FILTER-BOT 
+cd /Highfilter 
 pip3 install -U -r requirements.txt
 echo "Starting Bot...."
 python3 bot.py
