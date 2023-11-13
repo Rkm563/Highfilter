@@ -444,7 +444,7 @@ BOT WORKING PROPERLY"""
 
  எப்படி மற்றும் என்ன செய்ய வேண்டும்
 
- படி 1: இந்த THALAPATHY-FILTER-BOT போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
+ படி 1: இந்த Fast2.0 FILTER-BOT போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
@@ -471,7 +471,7 @@ Hey <a href='tg://settings'>My Friend</a>
 
  How and what to do
 
- Step 1: Administer this THALAPATHY-FILTER-BOT bot to your group
+ Step 1: Administer this Fast2.0 FILTER-BOT bot to your group
 
  Step 2: Add your website and API
 
@@ -498,7 +498,7 @@ Also your tutorial will be Added Your Group..."""
 
  ఎలా మరియు ఏమి చేయాలి
 
- దశ 1: ఈ THALAPATHY-FILTER-BOT బాట్‌ని మీ సమూహానికి నిర్వహించండి
+ దశ 1: ఈ Fast2.0 FILTER-BOT బాట్‌ని మీ సమూహానికి నిర్వహించండి
 
  దశ 2: మీ వెబ్‌సైట్ మరియు APIని జోడించండి
 
